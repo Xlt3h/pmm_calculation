@@ -1,0 +1,52 @@
+#body{
+    /*center the body*/
+    margin: 0 auto;
+}
+#calcu
+{
+    
+    
+    height: 100%;
+}
+#for_tables{
+    color: antiquewhite;
+}
+::selection{
+    background-color: green;
+    color:blue;
+}
+input{
+    width: 90%;
+    border-color: aqua;
+    border-radius: 30px;
+}
+#a_1u{
+    width: 80px;
+    border-color:cadetblue;
+    background-color: darkgray;
+}
+#a_3u{
+    width: 80px;
+    border-color:cadetblue;
+    background-color: darkgray;
+}
+td{
+    width: 80px;
+    border-color:cadetblue;
+    background-color: darkgray;
+}
+#table_from_a,#table_from_b,
+#table_from_c,
+#table_from_d,#table_from_e,
+#table_from_f,
+#table_from_g,#table_from_h,
+#table_from_z,#table_from_j{
+    border-radius: 0;
+    border-color: aquamarine;
+    width: 190px;
+    margin-bottom: 12px;
+    margin-left: 207px;
+}
+td{
+    width: 200px;
+}
