@@ -11,6 +11,7 @@ input{
     border-color: aqua;
     border-radius: 30px;
 }
+
 #a_1u{
     width: 80px;
     border-color:cadetblue;
@@ -35,8 +36,7 @@ td{
     border-radius: 0;
     border-color: aquamarine;
     width: 190px;
-    margin-bottom: 12px;
-    margin-left: 207px;
+    margin:auto auto 20px auto;
 }
 td{
     width: 200px;
