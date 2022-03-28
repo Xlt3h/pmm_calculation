@@ -402,7 +402,7 @@ class all_calc{
     {
         this.table_h();
         this.inherit_which_table_z = document.getElementById("table_from_z");
-        this.i_w_t_h_v = this.inherit_which_table_z.value;
+        this.i_w_t_z_v = this.inherit_which_table_z.value;
         //id
         this.z_1up = document.getElementById("z_1u");
         if(this.i_w_t_z_v == "A")
